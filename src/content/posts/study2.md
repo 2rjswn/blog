@@ -1,6 +1,6 @@
 ---
 title: DFS와 BFS
-published: 2024-07-01
+published: 2024-07-03
 tags: [Algorithm]
 category: study
 draft: false
